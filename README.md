@@ -26,11 +26,16 @@
 
 ## 🛠 Technical Skills
 Languages & Web Development: Python, C++, SQL, HTML, CSS, JavaScript
+
 Core Technical Skills: VLSI Design, Verilog, IoT, Embedded C, Arduino, Microcontrollers, Fibre Optics, ESP32
+
 Databases: MySQL
+
 Tools and IDEs: VSCode, Cadence Virtuoso, Linux, Xilinx, MATLAB
+
 Relevant Coursework: Digital Electronics, Analog Electronics, CMOS VLSI Design, Signals & Systems,
 Microprocessors, Communication Systems.
+
 Soft Skills: Clear Communication, Active Listening, Solution Oriented, Team Collaboration, Leadership
 
 ### Programming Languages
